@@ -15,6 +15,11 @@ h2 {
     font-family: monospace;
     background-color: white;
 }
+#deprec {
+    font-family: monospace;
+    color:crimson;
+    background-color: white;
+}
 body {
     background-image: url(../images/120x120Famichan.png)
 }

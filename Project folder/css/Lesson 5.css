@@ -1,0 +1,39 @@
+body {
+    background-image: url(../images/120x120Famichan.png)
+}
+.headings {
+    font-family: monospace;
+    color: white;
+    background-color: crimson;
+    position: relative;
+    top: 0em;
+}
+div > p {
+    font-family: monospace;
+    background-color: white;
+}
+img {
+    border-radius: 2em;
+}
+#footer {
+    font-family: monospace;
+    color: white;
+    background-color: crimson;
+    position:fixed;
+    bottom:0em
+}
+
+a:link {
+    color:white;
+}
+a:visited {
+    color:wheat;
+}
+a:hover {
+    color:darkblue;
+    font-weight:bold;
+}
+a:active {
+    color:darkviolet;
+    font-style: italic;
+}

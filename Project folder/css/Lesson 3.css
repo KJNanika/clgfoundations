@@ -1,0 +1,49 @@
+h1 {
+    font-size: 1.5em;
+    font-family: monospace;
+    color: white;
+    background-color: crimson;
+}
+h2 {
+    font-size: 1.5em;
+    font-family: monospace;
+    color: white;
+    background-color: crimson;
+}
+p {
+    font-size: 1.5em;
+    font-family: monospace;
+}
+li {
+    font-size: 1.5em;
+    font-family: monospace;
+}
+ul{
+    list-style-type: square;
+}
+a {
+    font-size: 1.5em;
+    text-decoration: none;
+    font-family: monospace;
+}
+a:link {
+    color:darkblue;
+}
+a:visited {
+    color:crimson;
+}
+a:hover {
+    color:blue;
+    font-weight:bold;
+}
+a:active {
+    color:darkviolet;
+    font-style: italic;
+}
+img {
+    padding: 1em;
+    border-radius: 2em;
+    border-width: 1em;
+    border-color: crimson;
+    border-style: dashed;
+}

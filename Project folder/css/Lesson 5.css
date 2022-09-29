@@ -8,11 +8,11 @@ body {
     position: relative;
     top: 0em;
 }
-div > p {
+div > p:first-child {
     font-family: monospace;
     background-color: white;
 }
-img {
+#menu {
     border-radius: 2em;
 }
 #footer {
